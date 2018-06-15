@@ -1,3 +1,3 @@
 # OSP
 
-Intern work donr for the Open Syllabus Project
+Intern work done for the Open Syllabus Project. 
